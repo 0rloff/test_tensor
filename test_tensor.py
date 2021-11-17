@@ -11,7 +11,7 @@ def test_yandex_search(browser):
     yandex_page.suggest_popup()
     time.sleep(2)
     yandex_page.press_enter()
-    time.sleep(5)
+    time.sleep(3)
 
 #    elements = yandex_page.check_navigation_bar()
 #    assert "Картинки" and "Видео" in elements
