@@ -1,5 +1,5 @@
 from .BaseClass import BasePage
-from .Locators import SearchLocators
+from .SearchLocators import SearchLocators
 from selenium.webdriver.common.keys import Keys
 
 

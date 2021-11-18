@@ -1,5 +1,5 @@
 from .BaseClass import BasePage
-from .Locators import PicturesLocators
+from .ImagesLocators import PicturesLocators
 
 
 class Pictures(BasePage):
